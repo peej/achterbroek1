@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  background: #3c3f40 url(https://a0.muscache.com/im/pictures/8d233597-7b65-47be-b922-305927f2bde6.jpg?aki_policy=xx_large) center center;
+  background: #3c3f40 url(https://a0.muscache.com/im/pictures/8d233597-7b65-47be-b922-305927f2bde6.jpg?aki_policy=xx_large) 50% 50%;
+  background-size: cover;
   height: 400px;
 }
 
