@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# The Farm Cottage at Achterbroek 1
 
-You can use the [editor on GitHub](https://github.com/peej/achterbroek1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Holiday Cottage in Berkenwoude, near Gouda, South Holland, The Netherlands
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The holiday cottage is situated in the Krimpenerwaard polder landscape at the old farm at Acheterbroek 1 on the edge of the small village of Berkenwoude. The cottage is surrounded by its own garden and waterways and faces south with views across the polders. There are lawns all around the bungalow with plenty of room for children to play. Inside there is a modern open plan living/dining/kitchen with panoramic views of the garden and direct access to the garden. Upstairs there are two bedrooms in the eaves of the cottage roof.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peej/achterbroek1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
