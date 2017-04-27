@@ -3,6 +3,24 @@
 
 @import "{{ site.theme }}";
 
-#header_wrap, #footer_wrap {
+#header_wrap {
+  background: #3c3f40 url(https://a0.muscache.com/im/pictures/8d233597-7b65-47be-b922-305927f2bde6.jpg?aki_policy=xx_large) center center;
+  height: 400px;
+}
+
+#footer_wrap {
   background: #3c3f40;
+}
+
+#project_title {
+  background: #222;
+  display: inline;
+  padding: 5px;
+}
+
+#project_tagline {
+  background: #fff;
+  color: #222;
+  display: inline;
+  padding: 5px;
 }
