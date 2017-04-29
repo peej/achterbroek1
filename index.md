@@ -1,4 +1,8 @@
-The holiday cottage is situated in the Krimpenerwaard polder landscape at the old farm at Acheterbroek 1 on the edge of the small village of Berkenwoude. The cottage is surrounded by its own garden and waterways and faces south with views across the polders. There are lawns all around the bungalow with plenty of room for children to play. Inside there is a modern open plan living/dining/kitchen with panoramic views of the garden and direct access to the garden. Upstairs there are two bedrooms in the eaves of the cottage roof.
+The Farm Cottage at Achterbroek 1 is a **holiday cottage** in the Dutch polderland in the **province of Zuid Holland**.
+
+The holiday cottage is situated in the Krimpenerwaard polder landscape at the old farm at Acheterbroek 1 on the edge of the small village of Berkenwoude. The cottage is surrounded by its own garden and waterways and faces south with views across the polder. There are lawns around the cottage with plenty of room for children to play. Inside there is a modern open plan living/dining/kitchen with panoramic views and direct access to the garden. Upstairs there are two bedrooms in the eaves of the roof.
+
+![Outside 1](assets/images/outside1.jpg) ![Outside 2](assets/images/outside2.jpg)
 
 # Location
 
@@ -6,7 +10,7 @@ The cottage is located in the heart of the [Krimpenerwaard district](https://en.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d177552.2162102959!2d4.70714601424541!3d51.957325725712614!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5d362faacac19%3A0xa503adc5388b634c!2sAchterbroek+1%2C+2825+NC+Berkenwoude%2C+Netherlands!5e0!3m2!1sen!2snl!4v1493452651216" width="600" height="450" frameborder="0" allowfullscreen></iframe>
 
-[Directions](/directions)
+[More information on the best directions to get to us](/directions).
 
 # Amenities
 
@@ -22,9 +26,8 @@ The cottage is located in the heart of the [Krimpenerwaard district](https://en.
 ## General
 
 * Wireless Internet
-* Iron & Board
-* Linens Provided
 * Parking
+* Linens Provided
 * Towels Provided
 
 ## Kitchen
@@ -38,6 +41,7 @@ The cottage is located in the heart of the [Krimpenerwaard district](https://en.
 * Hob
 * Toaster
 * Child's Highchair
+* Iron & Board
 
 ## Living Room
 
@@ -45,7 +49,6 @@ The cottage is located in the heart of the [Krimpenerwaard district](https://en.
 * Games
 * Books (Dutch/German/English)
 * Television
-* Terrace
 * Garden
 
 ## Bathrooms
