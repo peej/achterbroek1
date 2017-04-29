@@ -4,26 +4,51 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  background: #3c3f40 url(https://a0.muscache.com/im/pictures/8d233597-7b65-47be-b922-305927f2bde6.jpg?aki_policy=xx_large) 50% 50%;
-  background-size: cover;
-  height: 400px;
+    background: #222 url(https://a0.muscache.com/im/pictures/8d233597-7b65-47be-b922-305927f2bde6.jpg?aki_policy=xx_large) 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+}
+
+#main_content_wrap {
+    border-width: 5px;
 }
 
 #footer_wrap {
-  background: #3c3f40;
+    background: #222;
 }
 
 #project_title {
-  background: #222;
-  display: inline;
-  padding: 5px;
-  text-shadow: none;
+    background: #222;
+    display: inline;
+    padding: 5px;
+    text-shadow: none;
 }
 
 #project_tagline {
-  background: #fff;
-  color: #222;
-  display: inline;
-  padding: 5px;
-  text-shadow: none;
+    background: #fff;
+    color: #222;
+    display: inline;
+    padding: 5px;
+    text-shadow: none;
+}
+
+iframe {
+    border: 5px solid #222;
+    max-width: 100%;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    background: none;
+    border-bottom: 1px solid #999;
+    padding-bottom: 0;
+}
+
+a {
+    text-decoration: underline;
 }
