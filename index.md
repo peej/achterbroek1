@@ -11,37 +11,44 @@ The holiday cottage is situated in the Krimpenerwaard polder landscape at the ol
     <input id="ind-6" name="gallery" type="radio"><label for="ind-6"></label>
     <ul class="gallery-images">
         <li class="gallery-item">
-            <label for="ind-1">
+            <label for="ind-1"><a href="#img1">
                 <img src="assets/images/outside1.jpg" alt="Achterbroek 1 - Outside">
-            </label>
+            </a></label>
         </li>
         <li class="gallery-item">
-            <label for="ind-2">
+            <label for="ind-2"><a href="#img2">
                 <img src="assets/images/outside2.jpg" alt="Achterbroek 1 - Outside">
-            </label>
+            </a></label>
         </li>
         <li class="gallery-item">
-            <label for="ind-3">
+            <label for="ind-3"><a href="#img3">
                 <img src="assets/images/outside3.jpg" alt="Achterbroek 1 - Outside">
-            </label>
+            </a></label>
         </li>
         <li class="gallery-item">
-            <label for="ind-4">
+            <label for="ind-4"><a href="#img4">
                 <img src="assets/images/outside4.jpg" alt="Achterbroek 1 - Outside">
-            </label>
+            </a></label>
         </li>
         <li class="gallery-item">
-            <label for="ind-5">
+            <label for="ind-5"><a href="#img5">
                 <img src="assets/images/inside1.jpg" alt="Achterbroek 1 - Inside">
-            </label>
+            </a></label>
         </li>
         <li class="gallery-item">
-            <label for="ind-6">
+            <label for="ind-6"><a href="#img6">
                 <img src="assets/images/inside2.jpg" alt="Achterbroek 1 - Inside">
-            </label>
+            </a></label>
         </li>
     </ul>
 </div>
+
+<a href="#_" class="lightbox" id="img1"><img src="assets/images/outside1.jpg"></a>
+<a href="#_" class="lightbox" id="img2"><img src="assets/images/outside2.jpg"></a>
+<a href="#_" class="lightbox" id="img3"><img src="assets/images/outside3.jpg"></a>
+<a href="#_" class="lightbox" id="img4"><img src="assets/images/outside4.jpg"></a>
+<a href="#_" class="lightbox" id="img5"><img src="assets/images/inside1.jpg"></a>
+<a href="#_" class="lightbox" id="img6"><img src="assets/images/inside2.jpg"></a>
 
 # Location
 

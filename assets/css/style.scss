@@ -115,3 +115,26 @@ a {
 .gallery #ind-4:checked ~ .gallery-images { left: -930px; }
 .gallery #ind-5:checked ~ .gallery-images { left: -1240px; }
 .gallery #ind-6:checked ~ .gallery-images { left: -1550px; }
+
+.lightbox {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+}
+
+.lightbox img {
+    max-width: 90%;
+    max-height: 80%;
+    margin-top: 2%;
+}
+
+.lightbox:target {
+    outline: none;
+    display: block;
+}
