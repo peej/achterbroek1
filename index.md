@@ -115,7 +115,7 @@ The cottage is located in the heart of the [Krimpenerwaard district](https://en.
 * Sight seeing
 * Walking
 * Cycling
-* Canoing
+* Canoeing
 
 # Contact
 
