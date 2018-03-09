@@ -12,6 +12,7 @@
 
 #main_content_wrap {
     border-width: 5px;
+    font-size: 1.2em;
 }
 
 #footer_wrap {
@@ -130,8 +131,9 @@ a {
 }
 
 .lightbox img {
-    max-width: 90%;
-    max-height: 80%;
+    width: 90%;
+    max-width: none;
+    max-height: none;
     margin-top: 2%;
 }
 
